@@ -1,0 +1,67 @@
+{
+ "titre": "<em>Njundiyimun Béchard</em>, portfolio",
+ "type": "Développeur et designer",
+ "sous_titre": "Dix-neuf réalisations en ligne : web, mobile, IA, data, design, print",
+ "couleur": "#14130f",
+ "graine": 20,
+ "voix": [
+  [
+   3.3,
+   "Njundiyimun Béchard, développeur et designer,"
+  ],
+  [
+   8.0,
+   "sites, applications, assistants IA, data, identité visuelle et print,"
+  ],
+  [
+   15.5,
+   "chaque réalisation est en ligne, avec sa démo, son code et son spot de trente secondes."
+  ]
+ ],
+ "etapes": [
+  {
+   "t": "wait",
+   "ms": 1200
+  },
+  {
+   "t": "eval",
+   "js": "window.scrollTo({top:520,behavior:'smooth'})",
+   "pause": 1500
+  },
+  {
+   "t": "eval",
+   "js": "window.scrollTo({top:1500,behavior:'smooth'})",
+   "pause": 1600
+  },
+  {
+   "t": "click",
+   "sel": "#filters button:nth-child(4)",
+   "pause": 1500
+  },
+  {
+   "t": "click",
+   "sel": "#filters button:nth-child(1)",
+   "pause": 700
+  },
+  {
+   "t": "eval",
+   "js": "window.scrollTo({top:2300,behavior:'smooth'})",
+   "pause": 1500
+  },
+  {
+   "t": "click",
+   "sel": ".card[data-i='8']",
+   "pause": 2600
+  },
+  {
+   "t": "eval",
+   "js": "document.getElementById('pan').scrollTo({top:520,behavior:'smooth'})",
+   "pause": 1800
+  },
+  {
+   "t": "click",
+   "sel": "#nx",
+   "pause": 1800
+  }
+ ]
+}

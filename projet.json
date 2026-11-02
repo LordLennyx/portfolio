@@ -1,0 +1,16 @@
+{
+ "repo": "portfolio",
+ "nom": "Portfolio — Njundiyimun Béchard",
+ "type": "Portfolio de développeur et designer",
+ "categorie": "Sites web",
+ "resume": "Page d'accueil qui rassemble toutes les réalisations : chaque projet est en ligne, manipulable, avec son spot vidéo de trente secondes, ses captures et son code source. Filtres par domaine, aperçu vidéo au survol, fiche détaillée avec navigation au clavier.",
+ "fonctions": [
+  "Grille des réalisations générée à partir des fiches de chaque projet",
+  "Filtres par domaine : sites et e-commerce, applications, IA et data, design et print",
+  "Aperçu du spot vidéo au survol, fiche détaillée avec vidéo, captures, fonctionnalités et technologies",
+  "Liens directs vers la démo en ligne et le code source, navigation précédent / suivant au clavier",
+  "Lien partageable vers chaque fiche (ancre dans l'URL)"
+ ],
+ "stack": "HTML, CSS, JavaScript natif, Python (génération des données)",
+ "extra": {"Typographies": "Fraunces, Hanken Grotesk, JetBrains Mono"}
+}
